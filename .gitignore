@@ -1,3 +1,11 @@
+# Binaries
+bin/
+
+#GTAGS
+GTAGS
+GPATH
+GRTAGS
+
 # Prerequisites
 *.d
 
